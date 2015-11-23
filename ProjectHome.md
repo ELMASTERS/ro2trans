@@ -1,0 +1,1 @@
+Project started to translate the korean version of Ragnarok Online 2 to english.
